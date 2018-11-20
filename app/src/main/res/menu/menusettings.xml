@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item 
+        android:id="@+id/goSaveSettings" 
+		android:title="@string/btn_save"
+		android:icon="@drawable/ics_save"
+        android:showAsAction="ifRoom">
+    </item>
+
+</menu>

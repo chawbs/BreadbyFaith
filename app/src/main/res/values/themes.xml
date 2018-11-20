@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme_GenericDark"></style>
+    <style name="Theme_GenericLight"></style>
+    <style name="Theme_ICSDark"></style>
+    <style name="Theme_ICSLight"></style>
+</resources>

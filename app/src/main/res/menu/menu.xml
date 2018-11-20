@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Verse" android:id="@+id/goVerse" android:icon="@drawable/ics_verse" android:showAsAction="ifRoom" />
+    <item android:id="@+id/goSpeakDevotion" android:title="Read" android:showAsAction="ifRoom" android:icon="@drawable/ics_play"></item><item android:title="Share Link" android:id="@+id/goShareLink" android:icon="@drawable/ics_share_lnk" android:showAsAction="ifRoom" />
+    <item android:title="Share Text" android:id="@+id/goShareText" android:icon="@drawable/ics_share_txt" android:showAsAction="ifRoom" />
+    <item android:title="Previous" android:id="@+id/goPrevious" android:icon="@drawable/ics_left" android:showAsAction="ifRoom" />
+    <item android:title="Next" android:id="@+id/goNext" android:icon="@drawable/ics_right" android:showAsAction="ifRoom" />
+    <item android:title="Settings" android:id="@+id/goSettings" android:icon="@drawable/ics_settings" />
+    <item android:title="Refresh" android:id="@+id/goRefresh" android:icon="@drawable/ics_refresh" />
+    <item android:title="About" android:id="@+id/goAbout" android:icon="@drawable/ics_about" />
+    <item android:title="Help" android:id="@+id/goHelp" android:icon="@drawable/ics_help" />
+    
+</menu>

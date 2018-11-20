@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:fitsSystemWindows="true"
+	android:gravity="fill" android:layout_height="fill_parent"
+	android:layout_width="fill_parent">
+	<ImageView android:layout_height="wrap_content"
+	    android:contentDescription="@string/img_desc"
+		android:layout_width="wrap_content" android:id="@+id/imageView1"
+		android:layout_alignParentTop="true" android:layout_alignParentLeft="true"
+		android:layout_alignParentRight="true" android:src="@drawable/header"
+		android:adjustViewBounds="true" android:background="@drawable/background"></ImageView>
+	<WebView android:id="@+id/webView1" android:layout_width="fill_parent"
+		android:layout_height="fill_parent"></WebView>
+</RelativeLayout>

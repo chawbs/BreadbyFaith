@@ -1,0 +1,990 @@
+[
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sharelnk.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\sharelnk.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_play.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_left.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_verse.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\verse.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\6c66c7ef46d66a0e3998021edc56c8e3\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout-v15_aboutbreadics.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\layout-v15\\aboutbreadics.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_stop.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_left.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_left.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_verse.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\verse.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_left_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_left_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_share_lnk.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_share_lnk.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_back.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_back.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_help_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_help_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_help.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_help.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_left.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_help.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_help.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_play.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_verse.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_verse.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_back_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_back_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_right.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_right.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_stop_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_stop_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_ok.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_ok.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout-v15_helpbreadics.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\layout-v15\\helpbreadics.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_stop.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_settings.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_right_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_right_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_back_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_back_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\menu_menuverse.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\menu\\menuverse.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_header.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\header.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_save.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_save.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_share_txt.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_share_txt.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_left.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_left.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_play.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_play.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_ok.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_ok.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_share_txt.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_share_txt.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_stop_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_stop_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_verse_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_verse_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_help.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_help.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_play.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_play.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_left_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_left_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_stop.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\menu_menusettings.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\menu\\menusettings.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_right.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_stop.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_share_lnk.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_share_lnk.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_share_lnk_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_share_lnk_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_help_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_help_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_play_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_play_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_verse_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_verse_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_settings.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_left.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_left.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_settings.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_settings_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_settings_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_cancel.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_verse_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_verse_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stop.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_refresh.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_save.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_cancel.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_todaysbread.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\layout\\todaysbread.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_otherbackground.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\otherbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sharetxt.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\sharetxt.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_play.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_play.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_iconxt.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\iconxt.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_left.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_left.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_about.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_play_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_play_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_about.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_refresh.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_refresh.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_right.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_right.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_help_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_help_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_refresh_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_refresh_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_sharetxt.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\sharetxt.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_save_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_save_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_share_lnk.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_share_lnk.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_refresh.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_play.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_play.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_iconxt.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\iconxt.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_header.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\header.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_breadsettings.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\layout\\breadsettings.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_share_lnk_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_share_lnk_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_refresh_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_refresh_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_about.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_share_lnk.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_share_lnk.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\6c66c7ef46d66a0e3998021edc56c8e3\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_share_lnk_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_share_lnk_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_otherbackground.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\otherbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_share_txt.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_share_txt.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_about.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_settings_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_settings_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_stop.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\stop.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_otherbackground.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\otherbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_ok_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_ok_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_left_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_left_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_about.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_about.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_settings.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\6c66c7ef46d66a0e3998021edc56c8e3\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_cancel_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_cancel_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_about.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_about.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_settings_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_settings_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_cancel_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_cancel_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_settings.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_about_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_about_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_background.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_back_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_back_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\6c66c7ef46d66a0e3998021edc56c8e3\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_share_txt_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_share_txt_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_verse.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_verse.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_verse.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\verse.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_back.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_back.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_help.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_help.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_aboutbread.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\layout\\aboutbread.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_refresh.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_cancel.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_refresh_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_refresh_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_save.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_ok_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_ok_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout-v15_todaysbreadics.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\layout-v15\\todaysbreadics.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_cancel_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_cancel_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_save_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_save_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sharelnk.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\sharelnk.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_sharelnk.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\sharelnk.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_about_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_about_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_right.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_settings_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_settings_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_back.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_back.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_settings.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_save.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_play_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_play_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout-v15_todaysverseics.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\layout-v15\\todaysverseics.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_about.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_about.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_iconxt.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\iconxt.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sharelnk.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\sharelnk.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_stop_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_stop_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_header.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\header.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_save_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_save_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\6c66c7ef46d66a0e3998021edc56c8e3\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_refresh.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_iconxt.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\iconxt.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_right.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_share_txt_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_share_txt_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_stop.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_save.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_save.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_verse.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_verse.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_save_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_save_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_about.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_about.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_save.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_save.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_help_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_help_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_play.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\6c66c7ef46d66a0e3998021edc56c8e3\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_helpbread.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\layout\\helpbread.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_right_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_right_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_share.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_share_lnk_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_share_lnk_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout-v15_breadsettingsics.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\layout-v15\\breadsettingsics.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_ok.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_ok.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_settings.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_sharetxt.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\sharetxt.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_left.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_background.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_otherbackground.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\otherbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_cancel_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_cancel_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_verse_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_verse_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout-v15_upgradesplashics.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\layout-v15\\upgradesplashics.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_settings.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_settings.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\6c66c7ef46d66a0e3998021edc56c8e3\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_share_txt.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_share_txt.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_save.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_save.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_left.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_share_txt_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_share_txt_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_header.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\header.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_right.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_right.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_back_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_back_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_ok.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_ok.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\6c66c7ef46d66a0e3998021edc56c8e3\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_refresh.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_right_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_right_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_share_txt_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_share_txt_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_ok_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_ok_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_verse.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\verse.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_play.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_upgradesplash.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\layout\\upgradesplash.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_verse.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_verse.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\dcf2b1cb4b992ff59ba2c3a91444c0bf\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_stop_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_stop_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ics_left_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\ics_left_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\david\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\6c66c7ef46d66a0e3998021edc56c8e3\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_back.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_back.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_cancel.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_about_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_about_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_right.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_right.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_ok_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_ok_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ics_about_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\ics_about_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_stop.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_refresh_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_refresh_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_save.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ics_play_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-xhdpi\\ics_play_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_share.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_refresh.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sharetxt.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-hdpi\\sharetxt.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ics_right_dark.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\ics_right_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\layout_todaysverse.xml.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\layout\\todaysverse.xml"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_share.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-ldpi\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_share.png.flat",
+        "source": "C:\\Users\\david\\StudioProjects\\BreadbyFaith\\app\\src\\main\\res\\drawable-mdpi\\share.png"
+    }
+]

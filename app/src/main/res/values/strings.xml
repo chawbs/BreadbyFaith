@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bread By Faith</string>
+    <string name="feed_string">http://bbf.fbcxt.org/getlatestbread.php?trans=</string>
+    <string name="newfeedstring">http://bbf.fbcxt.org/getlatestbread.php?trans=</string>
+    <string name="last_day">Last Day</string>
+    <string name="curr_day">Current Day</string>
+    <string name="reget">Re-getting All Days</string>
+    <string name="cannot_fetch">Cannot Fetch Bread</string>
+    <string name="verse_url">http://bbf.fbcxt.org/getKJVpassage.php?passage=</string>
+    <string name="lookup_fail">URL lookup failed</string>
+    <string name="no_net">No Network Connection</string>
+    <string name="time_url">http://bbf.fbcxt.org/getlocalised?format=raw</string>
+    <string name="new_data">There is a new devotion waiting</string>
+    <string name="app_desc">Standing on the promises of God each and every day is as important to us as the air that we breathe. Showing God that you care too by keeping in touch will draw you closer to Him. Getting to know God more each day allows us to draw closer to Him where He is able to protect and look after us even more!\n\nI bring you Bread by Faith each and every day as I am given my daily guidance by the Holy Spirit and have done so for over a decade now through various means. I continue to share God and all that He does for me with as many people as possible! May our Awesome God bless you today and every day!\n\nClick on any of the buttons below to get further information.</string>
+    <string name="app_site">http://bbf.fbcxt.org</string>
+    <string-array name="refresh_interval">
+        <item>30 Minutes</item>
+        <item>1 Hour</item>
+        <item>2 Hours</item>
+        <item>6 Hours</item>
+        <item>Do not refresh</item>
+    </string-array>
+    <string name="refresh_text">Refresh Interval</string>
+    <string name="btn_save">Save</string>
+    <string name="theme_text">Theme</string>
+    <string-array name="themes">
+        <item>Dark Theme</item>
+        <item>Light Theme</item>
+    </string-array>
+    <string name="transition_text">Screen Transitions</string>
+    <string-array name="transitions">
+        <item>fade</item>
+        <item>slide</item>
+    </string-array>
+    <string name="app_ver">App Version: </string>
+    <string name="notify_text">Notification Sound</string>
+    <string-array name="notifications">
+        <item >Default</item>
+        <item >Pick</item>
+    </string-array>
+    <string name="rate_me">Rate Bread by Faith in Store</string>
+    <string name="visit_kaldroid">Visit developer site</string>
+    <string name="kaldroid_url">http://www.kaldroid.co.uk</string>
+    <string name="fling_mode">Fling Mode Enabled</string>
+    <string name="zoom_mode">Zoom Mode Enabled</string>
+    <string name="help_text">Text to speech is now available by selecting Read from the menu or by pressing the Sound icon.\n\nStay awake, or keep screen on, is selectable through the settings.\n\nA few different bible translations available for verse reading.\n\nAction Bar and icons moved in Latest versions of Android. The notification area has also changed for Jelly Bean onward to give a bit more information. The share icons have changed to include hints as to whether they will share text (txt) or a link  (lnk).\n\nThe cached data continues to be used in preference to data from the web to enhance the user experience.\n\nJohn 3:16 will be shown until the app can obtain an up to date feed from bbf.fbcxt.org.\n\nThe app checks for a date change in the latest entry on the site, downloading 5 days of devotions when something changes.\n\nIf the app does not update within a few seconds, try select refresh from the menu and wait a few more seconds for the New Devotion alarm to show.\n\nA long press on the devotion screen will change from checking for fling gestures to checking for zoom gestures (and visa versa) since the default is to not support both in early versions of Android.</string>
+    <string name="sdk_ver">Android Version: </string>
+    <string-array name="bibleTranslations">
+        <item >KJV</item>
+        <item >NET</item>
+        <item >ESV</item>
+        <item >NKJV</item>
+    </string-array>
+    <string-array name="bibleLookups">
+        <item >http://bbf.fbcxt.org/getKJVpassage.php?passage=</item>
+        <item >http://bbf.fbcxt.org/getNETpassage.php?passage=</item>
+        <item >http://bbf.fbcxt.org/getESVpassage.php?passage=</item>
+        <item >http://bbf.fbcxt.org/getNKJVpassage.php?passage=</item>
+    </string-array>
+    <string name="translations_text">Bible Translation</string>
+    <string name="wakelock_text">Wake Lock</string>
+    <string-array name="days_to_fetch">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="days_fetch">Days To Fetch</string>
+    <string name="text_zoom">Percent Zoom</string>
+    <string-array name="zooms">
+        <item>75</item>
+        <item>100</item>
+        <item>125</item>
+        <item>150</item>
+        <item>175</item>
+        <item>200</item>
+        <item>225</item>
+        <item>250</item>
+    </string-array>
+    <string-array name="updates">
+        <item>**Latest Updates**</item>
+        <item>Expanded Notification on JellyBean+</item>
+        <item>Fix for Share Link</item>
+        <item>**Previous Updates**</item>
+        <item>Startup Crash on old devices fixed</item>
+        <item>Try fix KitKat issues</item>
+        <item>**Reminders**</item>
+        <item>Sorry no updates for a long while. God has kept me busy!</item>
+        <item>Press icon below to dismiss this screen</item>
+        </string-array>
+    <string name="cache_verse">(Using Cached Verse)</string>
+    <string name="temp_text">Temporary Text</string>
+    <string name="img_desc">Icon</string>
+</resources>
